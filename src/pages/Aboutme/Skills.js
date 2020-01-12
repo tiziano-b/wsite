@@ -139,7 +139,7 @@ function Skills(props) {
                         </Box>
                         <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
                             <p className={classesGlobal.TextSkills}>Product Lifecycle</p>
-                            <StyledRatingAnalysis  icon={<FiberManualRecordIcon fontSize="inherit" />}value={2.5} precision={0.5} readOnly />
+                            <StyledRatingAnalysis  icon={<FiberManualRecordIcon fontSize="inherit" />}value={3.5} precision={0.5} readOnly />
                         </Box>
 
                     </Paper>
@@ -153,7 +153,7 @@ function Skills(props) {
                         </Box>
                         <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
                             <p className={classesGlobal.TextSkills}>Amazon AWS</p>
-                            <StyledRatingDesign  icon={<FiberManualRecordIcon fontSize="inherit" />}value={2.5} precision={0.5} readOnly />
+                            <StyledRatingDesign  icon={<FiberManualRecordIcon fontSize="inherit" />}value={3.0} precision={0.5} readOnly />
                         </Box>
                         <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
                             <p className={classesGlobal.TextSkills}>Balsamiq Mockup</p>
