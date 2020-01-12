@@ -1,0 +1,42 @@
+
+.Title{
+    font-family: 'Raleway', sans-serif;
+    font-size: 6em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.SubTitle{
+    font-family: 'Lato', sans-serif;
+    font-size: 2em;
+}
+
+.Page{
+    width: 80%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PageDetail{
+    width: 80%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.TitleAboutMe{
+    font-family: 'Raleway', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+}
+
+.TextAboutMe{
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    text-align: left;
+}
+
+
+
