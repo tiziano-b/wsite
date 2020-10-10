@@ -118,7 +118,10 @@ const useStyles = makeStyles(theme => ({
           <AppBar position="sticky" className={classes.appbar}>
               <Toolbar>
                 {/* <Typography variant="h6" className={classes.title_right}> <Link to="/" className={classes.appbarLinks}>Magic</Link> </Typography> */}
-                <a href="mailto:tiziano.bissola.uk@gmail.com" color={'black'}><MailOutlineIcon className={classes.title_right}></MailOutlineIcon></a>
+
+                {/* EMAIL !! enable when mailbox is set up */}
+                {/* <a href="mailto:tiziano.bissola.uk@gmail.com" color={'black'}><MailOutlineIcon className={classes.title_right}></MailOutlineIcon></a> */}
+                
                 <Typography variant="h6" className={classes.title_left}> <Link to="/" className={classesGlobal.appbarLinks}>About Me</Link> </Typography>
                 <Typography variant="h6" className={classes.title}> <Link to="/Projects" className={classesGlobal.appbarLinks}>Projects</Link> </Typography>
               </Toolbar>
