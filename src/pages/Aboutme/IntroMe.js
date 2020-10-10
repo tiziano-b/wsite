@@ -74,7 +74,7 @@ function IntroMe(props) {
         <Slide right>       
          <div className={classes.TextAboutMe}>
         <h1 className={classesGlobal.TextTitle}>About me</h1>
-        <p className={classesGlobal.Text}>Milan based | 2011. Toronto | 2018. Vancouver | 2018. London</p>
+        <p className={classesGlobal.Text}>Milan. Born | 2011. Toronto | 2018. Vancouver | 2018. London | 2020. Zurich</p>
         <p className={classesGlobal.Text}>I'm a lifelong traveler who lived in Milan, Vancouver, Toronto, and London, always looking for new challenges.
 Technology and computers have been in my life since I was a kid.</p>
 <p className={classesGlobal.Text}>I started to code and design stuff at a very young age.
