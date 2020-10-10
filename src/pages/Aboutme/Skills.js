@@ -103,10 +103,10 @@ function Skills(props) {
                             <p className={classesGlobal.TextSkills}>Scrum</p>
                             <StyledRatingMethodology icon={<FiberManualRecordIcon fontSize="inherit" />}value={4.5} precision={0.5} readOnly />
                         </Box>
-                        <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
+                        {/* <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
                             <p className={classesGlobal.TextSkills}>MVC</p>
                             <StyledRatingMethodology icon={<FiberManualRecordIcon fontSize="inherit" />}value={4.5} precision={0.5} readOnly />
-                        </Box>
+                        </Box> */}
                         <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
                             <p className={classesGlobal.TextSkills}>Extreme Programming (XP)</p>
                             <StyledRatingMethodology icon={<FiberManualRecordIcon fontSize="inherit" />}value={2.5} precision={0.5} readOnly />
@@ -139,7 +139,7 @@ function Skills(props) {
                         </Box>
                         <Box component="fieldset" mb={3} borderColor="transparent" marginTop="-10px" marginBottom="-10px">
                             <p className={classesGlobal.TextSkills}>Product Lifecycle</p>
-                            <StyledRatingAnalysis  icon={<FiberManualRecordIcon fontSize="inherit" />}value={3.5} precision={0.5} readOnly />
+                            <StyledRatingAnalysis  icon={<FiberManualRecordIcon fontSize="inherit" />}value={4.0} precision={0.5} readOnly />
                         </Box>
 
                     </Paper>
