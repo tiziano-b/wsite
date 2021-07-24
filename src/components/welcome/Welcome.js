@@ -13,7 +13,7 @@ import Fade from 'react-reveal/';
         <div className="Page">
           <h1 className={classes.WelcomeTitle}>Hello!<br/>I'am Tiziano</h1>
           <Fade count={2}>
-          <h2 className={classes.WelcomeText}>Software Engineer <b style={{fontSize: '0.7em'}}>⋮</b> IT Business Analyst <b style={{fontSize: '0.7em'}}>⋮</b>   Developer</h2>
+          <h2 className={classes.WelcomeText}>Software Engineer <b style={{fontSize: '0.7em'}}>⋮</b> IT Business Analyst <b style={{fontSize: '0.7em'}}>
           </Fade>
 
         </div>
